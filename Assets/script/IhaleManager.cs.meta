@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7904044e9ae674be3823c706652f7a60
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ihalePanel: {instanceID: 0}
+  - ihaleContent: {instanceID: 0}
+  - ihalePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

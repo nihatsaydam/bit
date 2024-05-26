@@ -1,0 +1,2983 @@
+{
+    "tenders": [
+        {
+            "Tender No": "T-001",
+            "Date": "2024-03-22",
+            "Duration": "7 months",
+            "Subject": "Construction Project 1",
+            "Location": "City 2, Neighborhood 19, Street 9",
+            "Worker Types": [
+                "Painter"
+            ],
+            "Materials": [
+                "Paint",
+                "Steel",
+                "Wire",
+                "Brick",
+                "Mortar",
+                "Glass",
+                "Wood"
+            ],
+            "Cost": 1381659.26,
+            "Requirements": [
+                "Tiler",
+                "Electrical Engineer",
+                "Welder",
+                "Painter",
+                "Craftsman",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 1."
+        },
+        {
+            "Tender No": "T-002",
+            "Date": "2023-08-06",
+            "Duration": "6 months",
+            "Subject": "Construction Project 2",
+            "Location": "City 4, Neighborhood 6, Street 11",
+            "Worker Types": [
+                "Plasterer",
+                "Blacksmith",
+                "Painter"
+            ],
+            "Materials": [
+                "Wire",
+                "Wood",
+                "Steel",
+                "Glass",
+                "Paint",
+                "Cement",
+                "Mortar"
+            ],
+            "Cost": 2279095.87,
+            "Requirements": [
+                "Blacksmith",
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 2."
+        },
+        {
+            "Tender No": "T-003",
+            "Date": "2023-08-02",
+            "Duration": "6 months",
+            "Subject": "Construction Project 3",
+            "Location": "City 5, Neighborhood 2, Street 2",
+            "Worker Types": [
+                "Carpenter",
+                "Construction Engineer",
+                "Tiler"
+            ],
+            "Materials": [
+                "Mortar",
+                "Iron",
+                "Wire",
+                "Steel",
+                "Paint"
+            ],
+            "Cost": 4532534.69,
+            "Requirements": [
+                "Plasterer",
+                "Construction Engineer",
+                "Tiler",
+                "Electrical Engineer",
+                "Blacksmith"
+            ],
+            "Description": "Construction work for Construction Project 3."
+        },
+        {
+            "Tender No": "T-004",
+            "Date": "2024-03-21",
+            "Duration": "12 months",
+            "Subject": "Construction Project 4",
+            "Location": "City 10, Neighborhood 3, Street 21",
+            "Worker Types": [
+                "Electrical Engineer",
+                "Craftsman",
+                "Construction Engineer",
+                "Plasterer",
+                "Blacksmith"
+            ],
+            "Materials": [
+                "Wood",
+                "Cement",
+                "Wire",
+                "Iron",
+                "Steel",
+                "Glass",
+                "Mortar"
+            ],
+            "Cost": 2470872.26,
+            "Requirements": [
+                "Painter",
+                "Welder",
+                "Electrical Engineer",
+                "Blacksmith",
+                "Construction Engineer",
+                "Craftsman",
+                "Tiler",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 4."
+        },
+        {
+            "Tender No": "T-005",
+            "Date": "2024-05-21",
+            "Duration": "3 months",
+            "Subject": "Construction Project 5",
+            "Location": "City 4, Neighborhood 13, Street 39",
+            "Worker Types": [
+                "Painter",
+                "Welder",
+                "Carpenter",
+                "Blacksmith",
+                "Construction Engineer",
+                "Craftsman",
+                "Plasterer",
+                "Electrical Engineer",
+                "Tiler"
+            ],
+            "Materials": [
+                "Ceramic"
+            ],
+            "Cost": 1171985.31,
+            "Requirements": [
+                "Electrical Engineer",
+                "Construction Engineer",
+                "Plasterer",
+                "Tiler",
+                "Painter",
+                "Craftsman",
+                "Blacksmith",
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 5."
+        },
+        {
+            "Tender No": "T-006",
+            "Date": "2023-10-01",
+            "Duration": "11 months",
+            "Subject": "Construction Project 6",
+            "Location": "City 7, Neighborhood 14, Street 10",
+            "Worker Types": [
+                "Carpenter",
+                "Welder"
+            ],
+            "Materials": [
+                "Iron",
+                "Cement",
+                "Steel",
+                "Wire",
+                "Ceramic",
+                "Glass",
+                "Paint",
+                "Brick",
+                "Mortar"
+            ],
+            "Cost": 705697.15,
+            "Requirements": [
+                "Tiler",
+                "Blacksmith"
+            ],
+            "Description": "Construction work for Construction Project 6."
+        },
+        {
+            "Tender No": "T-007",
+            "Date": "2023-12-21",
+            "Duration": "2 months",
+            "Subject": "Construction Project 7",
+            "Location": "City 8, Neighborhood 3, Street 46",
+            "Worker Types": [
+                "Tiler",
+                "Painter",
+                "Plasterer",
+                "Construction Engineer",
+                "Craftsman",
+                "Carpenter",
+                "Electrical Engineer",
+                "Welder"
+            ],
+            "Materials": [
+                "Brick",
+                "Steel",
+                "Cement",
+                "Paint",
+                "Wood",
+                "Glass",
+                "Mortar",
+                "Ceramic",
+                "Wire",
+                "Iron"
+            ],
+            "Cost": 667669.66,
+            "Requirements": [
+                "Electrical Engineer",
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 7."
+        },
+        {
+            "Tender No": "T-008",
+            "Date": "2023-06-23",
+            "Duration": "6 months",
+            "Subject": "Construction Project 8",
+            "Location": "City 4, Neighborhood 11, Street 18",
+            "Worker Types": [
+                "Electrical Engineer",
+                "Painter",
+                "Tiler",
+                "Construction Engineer",
+                "Blacksmith",
+                "Carpenter",
+                "Welder"
+            ],
+            "Materials": [
+                "Iron",
+                "Ceramic",
+                "Mortar",
+                "Paint",
+                "Steel",
+                "Wood"
+            ],
+            "Cost": 2082752.86,
+            "Requirements": [
+                "Welder",
+                "Plasterer",
+                "Blacksmith",
+                "Tiler",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 8."
+        },
+        {
+            "Tender No": "T-009",
+            "Date": "2024-05-12",
+            "Duration": "5 months",
+            "Subject": "Construction Project 9",
+            "Location": "City 5, Neighborhood 2, Street 3",
+            "Worker Types": [
+                "Construction Engineer"
+            ],
+            "Materials": [
+                "Iron",
+                "Wood",
+                "Mortar",
+                "Steel"
+            ],
+            "Cost": 241362.64,
+            "Requirements": [
+                "Blacksmith",
+                "Plasterer",
+                "Craftsman",
+                "Welder",
+                "Painter",
+                "Tiler",
+                "Construction Engineer"
+            ],
+            "Description": "Construction work for Construction Project 9."
+        },
+        {
+            "Tender No": "T-010",
+            "Date": "2023-12-18",
+            "Duration": "6 months",
+            "Subject": "Construction Project 10",
+            "Location": "City 9, Neighborhood 1, Street 42",
+            "Worker Types": [
+                "Plasterer",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Mortar",
+                "Steel",
+                "Iron",
+                "Brick",
+                "Ceramic",
+                "Wire"
+            ],
+            "Cost": 3180526.19,
+            "Requirements": [
+                "Plasterer",
+                "Blacksmith",
+                "Welder",
+                "Tiler",
+                "Painter",
+                "Construction Engineer",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 10."
+        },
+        {
+            "Tender No": "T-011",
+            "Date": "2024-05-08",
+            "Duration": "4 months",
+            "Subject": "Construction Project 11",
+            "Location": "City 3, Neighborhood 15, Street 19",
+            "Worker Types": [
+                "Craftsman",
+                "Blacksmith",
+                "Tiler",
+                "Electrical Engineer",
+                "Painter",
+                "Plasterer",
+                "Construction Engineer",
+                "Welder",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Glass",
+                "Mortar"
+            ],
+            "Cost": 1042479.8,
+            "Requirements": [
+                "Blacksmith"
+            ],
+            "Description": "Construction work for Construction Project 11."
+        },
+        {
+            "Tender No": "T-012",
+            "Date": "2024-02-25",
+            "Duration": "5 months",
+            "Subject": "Construction Project 12",
+            "Location": "City 5, Neighborhood 18, Street 38",
+            "Worker Types": [
+                "Tiler",
+                "Blacksmith",
+                "Construction Engineer",
+                "Carpenter",
+                "Plasterer",
+                "Electrical Engineer",
+                "Welder"
+            ],
+            "Materials": [
+                "Wire"
+            ],
+            "Cost": 1489293.41,
+            "Requirements": [
+                "Plasterer",
+                "Blacksmith",
+                "Craftsman",
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 12."
+        },
+        {
+            "Tender No": "T-013",
+            "Date": "2024-02-06",
+            "Duration": "3 months",
+            "Subject": "Construction Project 13",
+            "Location": "City 8, Neighborhood 9, Street 22",
+            "Worker Types": [
+                "Carpenter",
+                "Electrical Engineer"
+            ],
+            "Materials": [
+                "Ceramic"
+            ],
+            "Cost": 4191243.18,
+            "Requirements": [
+                "Craftsman",
+                "Blacksmith",
+                "Welder",
+                "Painter",
+                "Construction Engineer",
+                "Plasterer",
+                "Electrical Engineer",
+                "Tiler"
+            ],
+            "Description": "Construction work for Construction Project 13."
+        },
+        {
+            "Tender No": "T-014",
+            "Date": "2023-12-12",
+            "Duration": "5 months",
+            "Subject": "Construction Project 14",
+            "Location": "City 8, Neighborhood 18, Street 14",
+            "Worker Types": [
+                "Carpenter",
+                "Construction Engineer",
+                "Plasterer",
+                "Tiler",
+                "Blacksmith",
+                "Welder"
+            ],
+            "Materials": [
+                "Glass",
+                "Ceramic",
+                "Cement",
+                "Iron",
+                "Paint",
+                "Brick",
+                "Wire",
+                "Steel"
+            ],
+            "Cost": 1338012.29,
+            "Requirements": [
+                "Tiler",
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 14."
+        },
+        {
+            "Tender No": "T-015",
+            "Date": "2023-06-08",
+            "Duration": "12 months",
+            "Subject": "Construction Project 15",
+            "Location": "City 2, Neighborhood 12, Street 34",
+            "Worker Types": [
+                "Electrical Engineer",
+                "Craftsman",
+                "Carpenter",
+                "Plasterer",
+                "Painter",
+                "Tiler",
+                "Blacksmith",
+                "Welder",
+                "Construction Engineer"
+            ],
+            "Materials": [
+                "Mortar",
+                "Paint",
+                "Wire"
+            ],
+            "Cost": 1285243.65,
+            "Requirements": [
+                "Construction Engineer",
+                "Painter",
+                "Electrical Engineer",
+                "Plasterer",
+                "Tiler",
+                "Welder",
+                "Craftsman",
+                "Blacksmith"
+            ],
+            "Description": "Construction work for Construction Project 15."
+        },
+        {
+            "Tender No": "T-016",
+            "Date": "2023-07-21",
+            "Duration": "6 months",
+            "Subject": "Construction Project 16",
+            "Location": "City 5, Neighborhood 9, Street 42",
+            "Worker Types": [
+                "Craftsman",
+                "Carpenter",
+                "Tiler"
+            ],
+            "Materials": [
+                "Glass",
+                "Cement",
+                "Brick",
+                "Iron",
+                "Wire",
+                "Ceramic",
+                "Steel"
+            ],
+            "Cost": 2678239.86,
+            "Requirements": [
+                "Welder",
+                "Craftsman",
+                "Painter",
+                "Tiler",
+                "Blacksmith",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 16."
+        },
+        {
+            "Tender No": "T-017",
+            "Date": "2024-03-07",
+            "Duration": "12 months",
+            "Subject": "Construction Project 17",
+            "Location": "City 8, Neighborhood 5, Street 43",
+            "Worker Types": [
+                "Craftsman",
+                "Painter",
+                "Electrical Engineer",
+                "Carpenter",
+                "Tiler",
+                "Welder",
+                "Plasterer"
+            ],
+            "Materials": [
+                "Glass",
+                "Wood",
+                "Mortar",
+                "Wire",
+                "Paint",
+                "Brick",
+                "Ceramic",
+                "Iron",
+                "Cement"
+            ],
+            "Cost": 3019107.23,
+            "Requirements": [
+                "Welder",
+                "Craftsman",
+                "Painter",
+                "Blacksmith",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 17."
+        },
+        {
+            "Tender No": "T-018",
+            "Date": "2024-02-27",
+            "Duration": "11 months",
+            "Subject": "Construction Project 18",
+            "Location": "City 2, Neighborhood 16, Street 26",
+            "Worker Types": [
+                "Welder",
+                "Blacksmith",
+                "Electrical Engineer",
+                "Craftsman",
+                "Painter",
+                "Carpenter",
+                "Construction Engineer",
+                "Tiler"
+            ],
+            "Materials": [
+                "Cement",
+                "Mortar",
+                "Ceramic",
+                "Iron",
+                "Wire"
+            ],
+            "Cost": 4486996.05,
+            "Requirements": [
+                "Plasterer",
+                "Tiler",
+                "Painter",
+                "Blacksmith",
+                "Welder",
+                "Construction Engineer",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 18."
+        },
+        {
+            "Tender No": "T-019",
+            "Date": "2024-04-09",
+            "Duration": "1 months",
+            "Subject": "Construction Project 19",
+            "Location": "City 7, Neighborhood 6, Street 48",
+            "Worker Types": [
+                "Carpenter",
+                "Tiler",
+                "Construction Engineer",
+                "Plasterer",
+                "Welder",
+                "Painter",
+                "Electrical Engineer"
+            ],
+            "Materials": [
+                "Paint"
+            ],
+            "Cost": 4429131.74,
+            "Requirements": [
+                "Craftsman",
+                "Blacksmith",
+                "Construction Engineer",
+                "Electrical Engineer",
+                "Plasterer",
+                "Welder",
+                "Tiler"
+            ],
+            "Description": "Construction work for Construction Project 19."
+        },
+        {
+            "Tender No": "T-020",
+            "Date": "2023-09-18",
+            "Duration": "11 months",
+            "Subject": "Construction Project 20",
+            "Location": "City 8, Neighborhood 9, Street 18",
+            "Worker Types": [
+                "Craftsman",
+                "Tiler",
+                "Blacksmith",
+                "Construction Engineer"
+            ],
+            "Materials": [
+                "Steel",
+                "Cement",
+                "Iron",
+                "Wire",
+                "Mortar",
+                "Wood",
+                "Brick",
+                "Glass"
+            ],
+            "Cost": 3686198.62,
+            "Requirements": [
+                "Electrical Engineer",
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 20."
+        },
+        {
+            "Tender No": "T-021",
+            "Date": "2023-09-03",
+            "Duration": "10 months",
+            "Subject": "Construction Project 21",
+            "Location": "City 1, Neighborhood 13, Street 28",
+            "Worker Types": [
+                "Plasterer"
+            ],
+            "Materials": [
+                "Mortar",
+                "Wire"
+            ],
+            "Cost": 1777929.83,
+            "Requirements": [
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 21."
+        },
+        {
+            "Tender No": "T-022",
+            "Date": "2023-08-28",
+            "Duration": "12 months",
+            "Subject": "Construction Project 22",
+            "Location": "City 8, Neighborhood 7, Street 46",
+            "Worker Types": [
+                "Craftsman",
+                "Blacksmith",
+                "Painter",
+                "Electrical Engineer"
+            ],
+            "Materials": [
+                "Steel",
+                "Wood",
+                "Iron",
+                "Wire",
+                "Paint",
+                "Brick",
+                "Glass",
+                "Mortar"
+            ],
+            "Cost": 780193.02,
+            "Requirements": [
+                "Plasterer",
+                "Tiler",
+                "Blacksmith",
+                "Welder",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 22."
+        },
+        {
+            "Tender No": "T-023",
+            "Date": "2024-02-26",
+            "Duration": "1 months",
+            "Subject": "Construction Project 23",
+            "Location": "City 7, Neighborhood 12, Street 35",
+            "Worker Types": [
+                "Blacksmith",
+                "Tiler",
+                "Electrical Engineer",
+                "Plasterer",
+                "Craftsman",
+                "Construction Engineer",
+                "Painter",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Ceramic",
+                "Wire",
+                "Brick",
+                "Iron",
+                "Glass",
+                "Steel",
+                "Wood",
+                "Mortar",
+                "Cement",
+                "Paint"
+            ],
+            "Cost": 79075.85,
+            "Requirements": [
+                "Welder",
+                "Blacksmith"
+            ],
+            "Description": "Construction work for Construction Project 23."
+        },
+        {
+            "Tender No": "T-024",
+            "Date": "2023-06-03",
+            "Duration": "11 months",
+            "Subject": "Construction Project 24",
+            "Location": "City 9, Neighborhood 12, Street 37",
+            "Worker Types": [
+                "Blacksmith",
+                "Painter",
+                "Construction Engineer",
+                "Tiler",
+                "Plasterer",
+                "Craftsman"
+            ],
+            "Materials": [
+                "Wood",
+                "Wire"
+            ],
+            "Cost": 915757.48,
+            "Requirements": [
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 24."
+        },
+        {
+            "Tender No": "T-025",
+            "Date": "2024-02-16",
+            "Duration": "11 months",
+            "Subject": "Construction Project 25",
+            "Location": "City 5, Neighborhood 1, Street 46",
+            "Worker Types": [
+                "Carpenter",
+                "Electrical Engineer",
+                "Painter"
+            ],
+            "Materials": [
+                "Glass",
+                "Wood",
+                "Ceramic",
+                "Cement"
+            ],
+            "Cost": 3538216.61,
+            "Requirements": [
+                "Blacksmith",
+                "Plasterer",
+                "Tiler",
+                "Welder",
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 25."
+        },
+        {
+            "Tender No": "T-026",
+            "Date": "2024-02-05",
+            "Duration": "7 months",
+            "Subject": "Construction Project 26",
+            "Location": "City 8, Neighborhood 13, Street 28",
+            "Worker Types": [
+                "Construction Engineer"
+            ],
+            "Materials": [
+                "Mortar",
+                "Cement",
+                "Wood",
+                "Paint",
+                "Brick",
+                "Glass",
+                "Ceramic"
+            ],
+            "Cost": 2454978.07,
+            "Requirements": [
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 26."
+        },
+        {
+            "Tender No": "T-027",
+            "Date": "2023-07-03",
+            "Duration": "8 months",
+            "Subject": "Construction Project 27",
+            "Location": "City 4, Neighborhood 20, Street 24",
+            "Worker Types": [
+                "Electrical Engineer",
+                "Blacksmith",
+                "Welder",
+                "Plasterer",
+                "Carpenter",
+                "Tiler",
+                "Painter",
+                "Construction Engineer",
+                "Craftsman"
+            ],
+            "Materials": [
+                "Iron",
+                "Ceramic",
+                "Wire",
+                "Wood",
+                "Mortar",
+                "Glass",
+                "Cement",
+                "Steel",
+                "Paint"
+            ],
+            "Cost": 2531706.32,
+            "Requirements": [
+                "Plasterer",
+                "Welder",
+                "Tiler",
+                "Blacksmith",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 27."
+        },
+        {
+            "Tender No": "T-028",
+            "Date": "2024-04-15",
+            "Duration": "2 months",
+            "Subject": "Construction Project 28",
+            "Location": "City 5, Neighborhood 12, Street 1",
+            "Worker Types": [
+                "Carpenter"
+            ],
+            "Materials": [
+                "Steel",
+                "Wire",
+                "Wood",
+                "Iron",
+                "Glass",
+                "Cement",
+                "Paint"
+            ],
+            "Cost": 2465379.31,
+            "Requirements": [
+                "Craftsman",
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 28."
+        },
+        {
+            "Tender No": "T-029",
+            "Date": "2023-12-19",
+            "Duration": "9 months",
+            "Subject": "Construction Project 29",
+            "Location": "City 8, Neighborhood 12, Street 50",
+            "Worker Types": [
+                "Tiler",
+                "Plasterer",
+                "Blacksmith",
+                "Painter",
+                "Craftsman",
+                "Electrical Engineer",
+                "Carpenter",
+                "Construction Engineer"
+            ],
+            "Materials": [
+                "Ceramic",
+                "Wood",
+                "Steel",
+                "Cement",
+                "Wire",
+                "Iron",
+                "Mortar"
+            ],
+            "Cost": 4760153.28,
+            "Requirements": [
+                "Tiler",
+                "Craftsman",
+                "Welder",
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 29."
+        },
+        {
+            "Tender No": "T-030",
+            "Date": "2023-07-14",
+            "Duration": "3 months",
+            "Subject": "Construction Project 30",
+            "Location": "City 6, Neighborhood 14, Street 38",
+            "Worker Types": [
+                "Tiler",
+                "Craftsman",
+                "Construction Engineer",
+                "Electrical Engineer",
+                "Welder",
+                "Blacksmith",
+                "Plasterer",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Cement",
+                "Iron",
+                "Glass",
+                "Mortar",
+                "Wood",
+                "Brick",
+                "Wire",
+                "Ceramic",
+                "Steel",
+                "Paint"
+            ],
+            "Cost": 4009727.39,
+            "Requirements": [
+                "Plasterer",
+                "Welder",
+                "Construction Engineer"
+            ],
+            "Description": "Construction work for Construction Project 30."
+        },
+        {
+            "Tender No": "T-031",
+            "Date": "2023-10-20",
+            "Duration": "2 months",
+            "Subject": "Construction Project 31",
+            "Location": "City 9, Neighborhood 9, Street 31",
+            "Worker Types": [
+                "Craftsman",
+                "Painter",
+                "Blacksmith",
+                "Electrical Engineer",
+                "Carpenter",
+                "Welder",
+                "Tiler",
+                "Construction Engineer"
+            ],
+            "Materials": [
+                "Cement",
+                "Ceramic"
+            ],
+            "Cost": 3660000.73,
+            "Requirements": [
+                "Craftsman",
+                "Welder",
+                "Plasterer",
+                "Blacksmith",
+                "Painter",
+                "Tiler"
+            ],
+            "Description": "Construction work for Construction Project 31."
+        },
+        {
+            "Tender No": "T-032",
+            "Date": "2023-11-11",
+            "Duration": "12 months",
+            "Subject": "Construction Project 32",
+            "Location": "City 3, Neighborhood 7, Street 9",
+            "Worker Types": [
+                "Blacksmith",
+                "Painter",
+                "Construction Engineer",
+                "Tiler",
+                "Electrical Engineer"
+            ],
+            "Materials": [
+                "Brick",
+                "Glass",
+                "Wood",
+                "Paint"
+            ],
+            "Cost": 1675010.56,
+            "Requirements": [
+                "Craftsman",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 32."
+        },
+        {
+            "Tender No": "T-033",
+            "Date": "2023-08-26",
+            "Duration": "10 months",
+            "Subject": "Construction Project 33",
+            "Location": "City 9, Neighborhood 2, Street 18",
+            "Worker Types": [
+                "Craftsman",
+                "Construction Engineer",
+                "Electrical Engineer",
+                "Plasterer",
+                "Tiler",
+                "Blacksmith",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Steel",
+                "Paint"
+            ],
+            "Cost": 770260.24,
+            "Requirements": [
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 33."
+        },
+        {
+            "Tender No": "T-034",
+            "Date": "2024-04-26",
+            "Duration": "9 months",
+            "Subject": "Construction Project 34",
+            "Location": "City 1, Neighborhood 15, Street 31",
+            "Worker Types": [
+                "Craftsman",
+                "Carpenter",
+                "Construction Engineer"
+            ],
+            "Materials": [
+                "Ceramic",
+                "Iron",
+                "Glass",
+                "Mortar",
+                "Paint",
+                "Brick",
+                "Wood",
+                "Cement",
+                "Wire",
+                "Steel"
+            ],
+            "Cost": 2149601.67,
+            "Requirements": [
+                "Craftsman",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 34."
+        },
+        {
+            "Tender No": "T-035",
+            "Date": "2024-01-21",
+            "Duration": "4 months",
+            "Subject": "Construction Project 35",
+            "Location": "City 7, Neighborhood 13, Street 5",
+            "Worker Types": [
+                "Plasterer",
+                "Blacksmith",
+                "Tiler",
+                "Carpenter",
+                "Craftsman",
+                "Welder",
+                "Painter"
+            ],
+            "Materials": [
+                "Ceramic",
+                "Iron",
+                "Cement",
+                "Brick",
+                "Wood"
+            ],
+            "Cost": 2105269.85,
+            "Requirements": [
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 35."
+        },
+        {
+            "Tender No": "T-036",
+            "Date": "2024-02-20",
+            "Duration": "1 months",
+            "Subject": "Construction Project 36",
+            "Location": "City 4, Neighborhood 5, Street 45",
+            "Worker Types": [
+                "Electrical Engineer",
+                "Blacksmith",
+                "Craftsman",
+                "Construction Engineer",
+                "Carpenter",
+                "Plasterer",
+                "Painter",
+                "Tiler",
+                "Welder"
+            ],
+            "Materials": [
+                "Cement",
+                "Wire",
+                "Ceramic"
+            ],
+            "Cost": 724918.81,
+            "Requirements": [
+                "Painter",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 36."
+        },
+        {
+            "Tender No": "T-037",
+            "Date": "2024-02-13",
+            "Duration": "5 months",
+            "Subject": "Construction Project 37",
+            "Location": "City 3, Neighborhood 8, Street 43",
+            "Worker Types": [
+                "Carpenter"
+            ],
+            "Materials": [
+                "Wood",
+                "Steel",
+                "Mortar"
+            ],
+            "Cost": 4108289.98,
+            "Requirements": [
+                "Welder",
+                "Construction Engineer",
+                "Blacksmith",
+                "Electrical Engineer",
+                "Plasterer",
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 37."
+        },
+        {
+            "Tender No": "T-038",
+            "Date": "2024-02-06",
+            "Duration": "3 months",
+            "Subject": "Construction Project 38",
+            "Location": "City 1, Neighborhood 18, Street 32",
+            "Worker Types": [
+                "Construction Engineer",
+                "Craftsman",
+                "Plasterer",
+                "Carpenter",
+                "Painter",
+                "Blacksmith",
+                "Tiler",
+                "Electrical Engineer"
+            ],
+            "Materials": [
+                "Brick",
+                "Wood",
+                "Ceramic",
+                "Steel",
+                "Cement",
+                "Wire",
+                "Mortar"
+            ],
+            "Cost": 4644435.29,
+            "Requirements": [
+                "Electrical Engineer",
+                "Tiler",
+                "Craftsman",
+                "Blacksmith",
+                "Construction Engineer"
+            ],
+            "Description": "Construction work for Construction Project 38."
+        },
+        {
+            "Tender No": "T-039",
+            "Date": "2024-01-31",
+            "Duration": "9 months",
+            "Subject": "Construction Project 39",
+            "Location": "City 2, Neighborhood 8, Street 25",
+            "Worker Types": [
+                "Carpenter",
+                "Blacksmith",
+                "Craftsman",
+                "Plasterer",
+                "Tiler"
+            ],
+            "Materials": [
+                "Wire",
+                "Glass",
+                "Ceramic"
+            ],
+            "Cost": 1448839.28,
+            "Requirements": [
+                "Welder",
+                "Craftsman",
+                "Tiler",
+                "Plasterer",
+                "Blacksmith",
+                "Electrical Engineer",
+                "Painter",
+                "Construction Engineer"
+            ],
+            "Description": "Construction work for Construction Project 39."
+        },
+        {
+            "Tender No": "T-040",
+            "Date": "2023-06-22",
+            "Duration": "10 months",
+            "Subject": "Construction Project 40",
+            "Location": "City 1, Neighborhood 2, Street 39",
+            "Worker Types": [
+                "Plasterer",
+                "Tiler",
+                "Painter",
+                "Blacksmith",
+                "Construction Engineer",
+                "Carpenter",
+                "Electrical Engineer",
+                "Welder",
+                "Craftsman"
+            ],
+            "Materials": [
+                "Mortar",
+                "Ceramic",
+                "Cement",
+                "Glass",
+                "Paint",
+                "Wire",
+                "Brick"
+            ],
+            "Cost": 3988816.67,
+            "Requirements": [
+                "Plasterer",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 40."
+        },
+        {
+            "Tender No": "T-041",
+            "Date": "2023-12-26",
+            "Duration": "7 months",
+            "Subject": "Construction Project 41",
+            "Location": "City 1, Neighborhood 4, Street 38",
+            "Worker Types": [
+                "Welder",
+                "Electrical Engineer"
+            ],
+            "Materials": [
+                "Glass",
+                "Ceramic",
+                "Steel",
+                "Mortar",
+                "Wood",
+                "Wire",
+                "Cement",
+                "Brick"
+            ],
+            "Cost": 2694002.59,
+            "Requirements": [
+                "Electrical Engineer",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 41."
+        },
+        {
+            "Tender No": "T-042",
+            "Date": "2024-01-17",
+            "Duration": "4 months",
+            "Subject": "Construction Project 42",
+            "Location": "City 2, Neighborhood 4, Street 7",
+            "Worker Types": [
+                "Construction Engineer",
+                "Welder",
+                "Electrical Engineer",
+                "Painter",
+                "Tiler",
+                "Blacksmith",
+                "Plasterer",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Steel",
+                "Cement"
+            ],
+            "Cost": 2105101.28,
+            "Requirements": [
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 42."
+        },
+        {
+            "Tender No": "T-043",
+            "Date": "2024-05-01",
+            "Duration": "6 months",
+            "Subject": "Construction Project 43",
+            "Location": "City 7, Neighborhood 7, Street 41",
+            "Worker Types": [
+                "Painter",
+                "Construction Engineer",
+                "Welder"
+            ],
+            "Materials": [
+                "Ceramic",
+                "Glass",
+                "Wood",
+                "Iron"
+            ],
+            "Cost": 153786.15,
+            "Requirements": [
+                "Construction Engineer",
+                "Tiler",
+                "Painter",
+                "Blacksmith",
+                "Craftsman",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 43."
+        },
+        {
+            "Tender No": "T-044",
+            "Date": "2023-06-26",
+            "Duration": "6 months",
+            "Subject": "Construction Project 44",
+            "Location": "City 5, Neighborhood 12, Street 23",
+            "Worker Types": [
+                "Construction Engineer",
+                "Plasterer",
+                "Blacksmith",
+                "Tiler"
+            ],
+            "Materials": [
+                "Ceramic",
+                "Cement",
+                "Glass",
+                "Mortar"
+            ],
+            "Cost": 4282445.82,
+            "Requirements": [
+                "Plasterer",
+                "Craftsman",
+                "Tiler",
+                "Construction Engineer",
+                "Painter",
+                "Blacksmith"
+            ],
+            "Description": "Construction work for Construction Project 44."
+        },
+        {
+            "Tender No": "T-045",
+            "Date": "2024-05-02",
+            "Duration": "1 months",
+            "Subject": "Construction Project 45",
+            "Location": "City 9, Neighborhood 15, Street 39",
+            "Worker Types": [
+                "Tiler",
+                "Construction Engineer",
+                "Painter",
+                "Plasterer",
+                "Craftsman",
+                "Carpenter",
+                "Welder"
+            ],
+            "Materials": [
+                "Wire",
+                "Brick",
+                "Steel",
+                "Iron",
+                "Glass",
+                "Paint",
+                "Mortar",
+                "Wood",
+                "Ceramic"
+            ],
+            "Cost": 4960349.56,
+            "Requirements": [
+                "Welder",
+                "Plasterer",
+                "Tiler",
+                "Craftsman",
+                "Blacksmith",
+                "Painter",
+                "Electrical Engineer",
+                "Construction Engineer"
+            ],
+            "Description": "Construction work for Construction Project 45."
+        },
+        {
+            "Tender No": "T-046",
+            "Date": "2023-09-15",
+            "Duration": "5 months",
+            "Subject": "Construction Project 46",
+            "Location": "City 9, Neighborhood 8, Street 28",
+            "Worker Types": [
+                "Tiler",
+                "Construction Engineer",
+                "Carpenter",
+                "Blacksmith",
+                "Plasterer",
+                "Welder",
+                "Painter"
+            ],
+            "Materials": [
+                "Steel",
+                "Wire",
+                "Brick",
+                "Wood",
+                "Glass"
+            ],
+            "Cost": 3502719.64,
+            "Requirements": [
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 46."
+        },
+        {
+            "Tender No": "T-047",
+            "Date": "2023-11-18",
+            "Duration": "1 months",
+            "Subject": "Construction Project 47",
+            "Location": "City 3, Neighborhood 1, Street 30",
+            "Worker Types": [
+                "Craftsman",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Ceramic",
+                "Brick",
+                "Wood",
+                "Cement"
+            ],
+            "Cost": 3237036.12,
+            "Requirements": [
+                "Plasterer",
+                "Construction Engineer",
+                "Tiler",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 47."
+        },
+        {
+            "Tender No": "T-048",
+            "Date": "2023-07-12",
+            "Duration": "1 months",
+            "Subject": "Construction Project 48",
+            "Location": "City 2, Neighborhood 4, Street 40",
+            "Worker Types": [
+                "Welder"
+            ],
+            "Materials": [
+                "Paint",
+                "Ceramic",
+                "Glass"
+            ],
+            "Cost": 4846252.81,
+            "Requirements": [
+                "Welder",
+                "Plasterer",
+                "Construction Engineer",
+                "Blacksmith",
+                "Tiler",
+                "Craftsman",
+                "Electrical Engineer",
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 48."
+        },
+        {
+            "Tender No": "T-049",
+            "Date": "2024-02-11",
+            "Duration": "10 months",
+            "Subject": "Construction Project 49",
+            "Location": "City 1, Neighborhood 3, Street 25",
+            "Worker Types": [
+                "Electrical Engineer",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Ceramic",
+                "Mortar",
+                "Steel",
+                "Wire",
+                "Cement",
+                "Paint",
+                "Glass",
+                "Wood",
+                "Iron",
+                "Brick"
+            ],
+            "Cost": 1772355.3,
+            "Requirements": [
+                "Construction Engineer",
+                "Craftsman",
+                "Welder",
+                "Blacksmith",
+                "Plasterer",
+                "Electrical Engineer",
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 49."
+        },
+        {
+            "Tender No": "T-050",
+            "Date": "2023-11-07",
+            "Duration": "6 months",
+            "Subject": "Construction Project 50",
+            "Location": "City 1, Neighborhood 20, Street 12",
+            "Worker Types": [
+                "Blacksmith",
+                "Plasterer",
+                "Painter",
+                "Electrical Engineer",
+                "Carpenter",
+                "Welder",
+                "Construction Engineer",
+                "Tiler"
+            ],
+            "Materials": [
+                "Paint",
+                "Ceramic",
+                "Brick",
+                "Iron",
+                "Mortar",
+                "Wood",
+                "Wire",
+                "Glass",
+                "Steel"
+            ],
+            "Cost": 2992263.93,
+            "Requirements": [
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 50."
+        },
+        {
+            "Tender No": "T-051",
+            "Date": "2024-01-16",
+            "Duration": "1 months",
+            "Subject": "Construction Project 51",
+            "Location": "City 5, Neighborhood 6, Street 37",
+            "Worker Types": [
+                "Blacksmith",
+                "Plasterer",
+                "Welder",
+                "Construction Engineer",
+                "Electrical Engineer",
+                "Tiler"
+            ],
+            "Materials": [
+                "Brick",
+                "Steel",
+                "Glass",
+                "Wire",
+                "Ceramic"
+            ],
+            "Cost": 2685035.81,
+            "Requirements": [
+                "Craftsman",
+                "Welder",
+                "Construction Engineer",
+                "Plasterer",
+                "Blacksmith",
+                "Tiler",
+                "Electrical Engineer",
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 51."
+        },
+        {
+            "Tender No": "T-052",
+            "Date": "2023-11-29",
+            "Duration": "1 months",
+            "Subject": "Construction Project 52",
+            "Location": "City 5, Neighborhood 3, Street 36",
+            "Worker Types": [
+                "Painter",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Glass"
+            ],
+            "Cost": 2060759.44,
+            "Requirements": [
+                "Electrical Engineer",
+                "Welder",
+                "Painter",
+                "Construction Engineer",
+                "Plasterer",
+                "Blacksmith"
+            ],
+            "Description": "Construction work for Construction Project 52."
+        },
+        {
+            "Tender No": "T-053",
+            "Date": "2023-11-25",
+            "Duration": "6 months",
+            "Subject": "Construction Project 53",
+            "Location": "City 10, Neighborhood 5, Street 39",
+            "Worker Types": [
+                "Construction Engineer",
+                "Craftsman",
+                "Tiler"
+            ],
+            "Materials": [
+                "Iron",
+                "Glass",
+                "Steel",
+                "Mortar",
+                "Brick",
+                "Wire",
+                "Wood"
+            ],
+            "Cost": 3080751.91,
+            "Requirements": [
+                "Electrical Engineer",
+                "Construction Engineer",
+                "Tiler",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 53."
+        },
+        {
+            "Tender No": "T-054",
+            "Date": "2023-08-31",
+            "Duration": "8 months",
+            "Subject": "Construction Project 54",
+            "Location": "City 4, Neighborhood 20, Street 33",
+            "Worker Types": [
+                "Plasterer"
+            ],
+            "Materials": [
+                "Wire",
+                "Mortar",
+                "Brick",
+                "Glass",
+                "Steel",
+                "Paint",
+                "Iron",
+                "Cement",
+                "Wood",
+                "Ceramic"
+            ],
+            "Cost": 3316134.59,
+            "Requirements": [
+                "Painter",
+                "Plasterer",
+                "Tiler",
+                "Construction Engineer",
+                "Blacksmith"
+            ],
+            "Description": "Construction work for Construction Project 54."
+        },
+        {
+            "Tender No": "T-055",
+            "Date": "2023-10-02",
+            "Duration": "11 months",
+            "Subject": "Construction Project 55",
+            "Location": "City 3, Neighborhood 4, Street 42",
+            "Worker Types": [
+                "Painter",
+                "Tiler",
+                "Plasterer"
+            ],
+            "Materials": [
+                "Glass",
+                "Cement",
+                "Paint",
+                "Mortar",
+                "Brick",
+                "Wire"
+            ],
+            "Cost": 2950142.11,
+            "Requirements": [
+                "Tiler"
+            ],
+            "Description": "Construction work for Construction Project 55."
+        },
+        {
+            "Tender No": "T-056",
+            "Date": "2024-02-17",
+            "Duration": "4 months",
+            "Subject": "Construction Project 56",
+            "Location": "City 3, Neighborhood 20, Street 9",
+            "Worker Types": [
+                "Painter",
+                "Construction Engineer",
+                "Craftsman",
+                "Plasterer",
+                "Carpenter",
+                "Welder",
+                "Electrical Engineer"
+            ],
+            "Materials": [
+                "Iron",
+                "Steel",
+                "Paint",
+                "Mortar",
+                "Wire",
+                "Wood"
+            ],
+            "Cost": 379927.66,
+            "Requirements": [
+                "Construction Engineer",
+                "Painter",
+                "Blacksmith",
+                "Welder",
+                "Electrical Engineer",
+                "Plasterer",
+                "Tiler"
+            ],
+            "Description": "Construction work for Construction Project 56."
+        },
+        {
+            "Tender No": "T-057",
+            "Date": "2023-06-01",
+            "Duration": "8 months",
+            "Subject": "Construction Project 57",
+            "Location": "City 10, Neighborhood 9, Street 30",
+            "Worker Types": [
+                "Electrical Engineer",
+                "Tiler",
+                "Painter",
+                "Plasterer",
+                "Craftsman",
+                "Blacksmith"
+            ],
+            "Materials": [
+                "Glass",
+                "Brick",
+                "Cement",
+                "Wood"
+            ],
+            "Cost": 1891328.72,
+            "Requirements": [
+                "Blacksmith",
+                "Welder",
+                "Craftsman",
+                "Painter",
+                "Tiler",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 57."
+        },
+        {
+            "Tender No": "T-058",
+            "Date": "2024-03-02",
+            "Duration": "5 months",
+            "Subject": "Construction Project 58",
+            "Location": "City 8, Neighborhood 2, Street 11",
+            "Worker Types": [
+                "Tiler",
+                "Construction Engineer",
+                "Plasterer"
+            ],
+            "Materials": [
+                "Iron",
+                "Glass",
+                "Paint",
+                "Brick"
+            ],
+            "Cost": 2328041.29,
+            "Requirements": [
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 58."
+        },
+        {
+            "Tender No": "T-059",
+            "Date": "2023-07-16",
+            "Duration": "2 months",
+            "Subject": "Construction Project 59",
+            "Location": "City 10, Neighborhood 10, Street 5",
+            "Worker Types": [
+                "Construction Engineer",
+                "Plasterer",
+                "Blacksmith",
+                "Painter"
+            ],
+            "Materials": [
+                "Iron",
+                "Glass",
+                "Cement",
+                "Mortar",
+                "Steel",
+                "Wood"
+            ],
+            "Cost": 2217470.09,
+            "Requirements": [
+                "Blacksmith",
+                "Craftsman",
+                "Electrical Engineer",
+                "Painter",
+                "Tiler",
+                "Construction Engineer",
+                "Welder",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 59."
+        },
+        {
+            "Tender No": "T-060",
+            "Date": "2023-07-27",
+            "Duration": "12 months",
+            "Subject": "Construction Project 60",
+            "Location": "City 8, Neighborhood 3, Street 31",
+            "Worker Types": [
+                "Craftsman",
+                "Carpenter",
+                "Plasterer"
+            ],
+            "Materials": [
+                "Wood",
+                "Steel",
+                "Mortar",
+                "Paint"
+            ],
+            "Cost": 2848433.9,
+            "Requirements": [
+                "Welder",
+                "Construction Engineer",
+                "Tiler",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 60."
+        },
+        {
+            "Tender No": "T-061",
+            "Date": "2024-03-11",
+            "Duration": "5 months",
+            "Subject": "Construction Project 61",
+            "Location": "City 5, Neighborhood 17, Street 19",
+            "Worker Types": [
+                "Craftsman",
+                "Tiler",
+                "Welder"
+            ],
+            "Materials": [
+                "Cement",
+                "Wire",
+                "Mortar",
+                "Steel",
+                "Glass"
+            ],
+            "Cost": 2081913.7,
+            "Requirements": [
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 61."
+        },
+        {
+            "Tender No": "T-062",
+            "Date": "2024-02-14",
+            "Duration": "1 months",
+            "Subject": "Construction Project 62",
+            "Location": "City 5, Neighborhood 18, Street 41",
+            "Worker Types": [
+                "Welder",
+                "Tiler",
+                "Electrical Engineer",
+                "Craftsman",
+                "Blacksmith",
+                "Plasterer",
+                "Carpenter",
+                "Construction Engineer",
+                "Painter"
+            ],
+            "Materials": [
+                "Steel",
+                "Ceramic",
+                "Paint",
+                "Glass",
+                "Wire",
+                "Mortar",
+                "Wood",
+                "Cement"
+            ],
+            "Cost": 4367784.97,
+            "Requirements": [
+                "Blacksmith",
+                "Tiler",
+                "Electrical Engineer",
+                "Construction Engineer",
+                "Craftsman",
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 62."
+        },
+        {
+            "Tender No": "T-063",
+            "Date": "2023-06-03",
+            "Duration": "12 months",
+            "Subject": "Construction Project 63",
+            "Location": "City 9, Neighborhood 14, Street 28",
+            "Worker Types": [
+                "Blacksmith",
+                "Welder",
+                "Construction Engineer"
+            ],
+            "Materials": [
+                "Mortar",
+                "Cement",
+                "Steel"
+            ],
+            "Cost": 2822490.12,
+            "Requirements": [
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 63."
+        },
+        {
+            "Tender No": "T-064",
+            "Date": "2023-10-25",
+            "Duration": "10 months",
+            "Subject": "Construction Project 64",
+            "Location": "City 1, Neighborhood 15, Street 37",
+            "Worker Types": [
+                "Tiler",
+                "Construction Engineer",
+                "Blacksmith"
+            ],
+            "Materials": [
+                "Iron",
+                "Cement",
+                "Mortar",
+                "Ceramic",
+                "Wire",
+                "Brick",
+                "Wood",
+                "Glass"
+            ],
+            "Cost": 2723745.54,
+            "Requirements": [
+                "Construction Engineer",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 64."
+        },
+        {
+            "Tender No": "T-065",
+            "Date": "2024-03-11",
+            "Duration": "4 months",
+            "Subject": "Construction Project 65",
+            "Location": "City 6, Neighborhood 13, Street 40",
+            "Worker Types": [
+                "Blacksmith",
+                "Painter",
+                "Craftsman",
+                "Welder",
+                "Tiler",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Cement",
+                "Iron",
+                "Paint"
+            ],
+            "Cost": 2731784.6,
+            "Requirements": [
+                "Blacksmith",
+                "Tiler",
+                "Construction Engineer",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 65."
+        },
+        {
+            "Tender No": "T-066",
+            "Date": "2024-02-06",
+            "Duration": "5 months",
+            "Subject": "Construction Project 66",
+            "Location": "City 6, Neighborhood 8, Street 40",
+            "Worker Types": [
+                "Blacksmith",
+                "Craftsman",
+                "Painter",
+                "Tiler",
+                "Welder",
+                "Plasterer",
+                "Carpenter",
+                "Electrical Engineer"
+            ],
+            "Materials": [
+                "Steel"
+            ],
+            "Cost": 4623061.58,
+            "Requirements": [
+                "Electrical Engineer",
+                "Construction Engineer",
+                "Welder",
+                "Painter",
+                "Craftsman",
+                "Blacksmith",
+                "Plasterer",
+                "Tiler"
+            ],
+            "Description": "Construction work for Construction Project 66."
+        },
+        {
+            "Tender No": "T-067",
+            "Date": "2023-06-14",
+            "Duration": "3 months",
+            "Subject": "Construction Project 67",
+            "Location": "City 4, Neighborhood 18, Street 19",
+            "Worker Types": [
+                "Blacksmith"
+            ],
+            "Materials": [
+                "Cement",
+                "Ceramic",
+                "Glass",
+                "Wood"
+            ],
+            "Cost": 1622372.06,
+            "Requirements": [
+                "Construction Engineer",
+                "Blacksmith"
+            ],
+            "Description": "Construction work for Construction Project 67."
+        },
+        {
+            "Tender No": "T-068",
+            "Date": "2024-04-19",
+            "Duration": "4 months",
+            "Subject": "Construction Project 68",
+            "Location": "City 1, Neighborhood 12, Street 35",
+            "Worker Types": [
+                "Carpenter",
+                "Welder",
+                "Craftsman",
+                "Plasterer",
+                "Painter"
+            ],
+            "Materials": [
+                "Glass",
+                "Paint",
+                "Wood",
+                "Wire",
+                "Cement",
+                "Brick",
+                "Mortar",
+                "Steel",
+                "Iron",
+                "Ceramic"
+            ],
+            "Cost": 3569350.71,
+            "Requirements": [
+                "Electrical Engineer",
+                "Plasterer",
+                "Tiler",
+                "Construction Engineer",
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 68."
+        },
+        {
+            "Tender No": "T-069",
+            "Date": "2023-12-16",
+            "Duration": "3 months",
+            "Subject": "Construction Project 69",
+            "Location": "City 6, Neighborhood 19, Street 34",
+            "Worker Types": [
+                "Construction Engineer",
+                "Tiler",
+                "Carpenter",
+                "Craftsman",
+                "Plasterer",
+                "Welder",
+                "Blacksmith",
+                "Painter"
+            ],
+            "Materials": [
+                "Paint",
+                "Mortar",
+                "Brick",
+                "Ceramic",
+                "Wire",
+                "Steel",
+                "Wood"
+            ],
+            "Cost": 3265811.92,
+            "Requirements": [
+                "Plasterer",
+                "Electrical Engineer",
+                "Craftsman",
+                "Tiler",
+                "Welder",
+                "Blacksmith",
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 69."
+        },
+        {
+            "Tender No": "T-070",
+            "Date": "2024-02-19",
+            "Duration": "9 months",
+            "Subject": "Construction Project 70",
+            "Location": "City 5, Neighborhood 13, Street 34",
+            "Worker Types": [
+                "Blacksmith",
+                "Tiler",
+                "Carpenter",
+                "Construction Engineer",
+                "Painter",
+                "Plasterer"
+            ],
+            "Materials": [
+                "Ceramic",
+                "Paint",
+                "Wood",
+                "Cement",
+                "Steel"
+            ],
+            "Cost": 237335.21,
+            "Requirements": [
+                "Tiler",
+                "Blacksmith",
+                "Craftsman",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 70."
+        },
+        {
+            "Tender No": "T-071",
+            "Date": "2023-12-27",
+            "Duration": "5 months",
+            "Subject": "Construction Project 71",
+            "Location": "City 4, Neighborhood 1, Street 15",
+            "Worker Types": [
+                "Tiler"
+            ],
+            "Materials": [
+                "Mortar",
+                "Paint",
+                "Cement",
+                "Wire",
+                "Steel",
+                "Brick",
+                "Iron",
+                "Glass",
+                "Wood"
+            ],
+            "Cost": 4237871.97,
+            "Requirements": [
+                "Welder",
+                "Blacksmith",
+                "Electrical Engineer",
+                "Plasterer",
+                "Tiler",
+                "Construction Engineer"
+            ],
+            "Description": "Construction work for Construction Project 71."
+        },
+        {
+            "Tender No": "T-072",
+            "Date": "2023-06-21",
+            "Duration": "7 months",
+            "Subject": "Construction Project 72",
+            "Location": "City 8, Neighborhood 18, Street 10",
+            "Worker Types": [
+                "Tiler",
+                "Construction Engineer",
+                "Welder",
+                "Carpenter",
+                "Electrical Engineer",
+                "Plasterer",
+                "Painter"
+            ],
+            "Materials": [
+                "Glass",
+                "Cement"
+            ],
+            "Cost": 215765.67,
+            "Requirements": [
+                "Welder",
+                "Construction Engineer",
+                "Craftsman",
+                "Electrical Engineer",
+                "Painter",
+                "Tiler",
+                "Plasterer",
+                "Blacksmith"
+            ],
+            "Description": "Construction work for Construction Project 72."
+        },
+        {
+            "Tender No": "T-073",
+            "Date": "2023-07-21",
+            "Duration": "4 months",
+            "Subject": "Construction Project 73",
+            "Location": "City 6, Neighborhood 9, Street 4",
+            "Worker Types": [
+                "Electrical Engineer",
+                "Plasterer",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Iron",
+                "Ceramic"
+            ],
+            "Cost": 2826548.01,
+            "Requirements": [
+                "Welder",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 73."
+        },
+        {
+            "Tender No": "T-074",
+            "Date": "2024-05-09",
+            "Duration": "2 months",
+            "Subject": "Construction Project 74",
+            "Location": "City 1, Neighborhood 8, Street 20",
+            "Worker Types": [
+                "Plasterer",
+                "Welder",
+                "Painter"
+            ],
+            "Materials": [
+                "Wood",
+                "Glass",
+                "Wire",
+                "Ceramic",
+                "Brick",
+                "Mortar",
+                "Cement",
+                "Iron"
+            ],
+            "Cost": 3211700.51,
+            "Requirements": [
+                "Tiler",
+                "Painter",
+                "Welder",
+                "Plasterer",
+                "Craftsman",
+                "Construction Engineer"
+            ],
+            "Description": "Construction work for Construction Project 74."
+        },
+        {
+            "Tender No": "T-075",
+            "Date": "2023-08-18",
+            "Duration": "6 months",
+            "Subject": "Construction Project 75",
+            "Location": "City 7, Neighborhood 2, Street 17",
+            "Worker Types": [
+                "Plasterer",
+                "Construction Engineer",
+                "Blacksmith"
+            ],
+            "Materials": [
+                "Wire",
+                "Steel",
+                "Ceramic",
+                "Brick",
+                "Cement",
+                "Mortar",
+                "Iron"
+            ],
+            "Cost": 1068685.91,
+            "Requirements": [
+                "Painter",
+                "Tiler"
+            ],
+            "Description": "Construction work for Construction Project 75."
+        },
+        {
+            "Tender No": "T-076",
+            "Date": "2024-05-11",
+            "Duration": "12 months",
+            "Subject": "Construction Project 76",
+            "Location": "City 4, Neighborhood 19, Street 7",
+            "Worker Types": [
+                "Plasterer",
+                "Construction Engineer",
+                "Blacksmith",
+                "Electrical Engineer",
+                "Craftsman",
+                "Painter"
+            ],
+            "Materials": [
+                "Wood",
+                "Ceramic",
+                "Steel",
+                "Cement",
+                "Iron",
+                "Paint"
+            ],
+            "Cost": 846630.51,
+            "Requirements": [
+                "Construction Engineer",
+                "Plasterer",
+                "Tiler",
+                "Painter",
+                "Electrical Engineer",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 76."
+        },
+        {
+            "Tender No": "T-077",
+            "Date": "2024-01-17",
+            "Duration": "11 months",
+            "Subject": "Construction Project 77",
+            "Location": "City 3, Neighborhood 3, Street 40",
+            "Worker Types": [
+                "Welder",
+                "Tiler",
+                "Construction Engineer",
+                "Carpenter",
+                "Electrical Engineer",
+                "Painter"
+            ],
+            "Materials": [
+                "Brick",
+                "Mortar",
+                "Wire"
+            ],
+            "Cost": 102070.17,
+            "Requirements": [
+                "Painter",
+                "Craftsman",
+                "Tiler",
+                "Plasterer",
+                "Blacksmith",
+                "Electrical Engineer",
+                "Construction Engineer"
+            ],
+            "Description": "Construction work for Construction Project 77."
+        },
+        {
+            "Tender No": "T-078",
+            "Date": "2023-11-04",
+            "Duration": "5 months",
+            "Subject": "Construction Project 78",
+            "Location": "City 7, Neighborhood 18, Street 18",
+            "Worker Types": [
+                "Plasterer",
+                "Blacksmith",
+                "Welder",
+                "Construction Engineer",
+                "Electrical Engineer",
+                "Carpenter",
+                "Craftsman"
+            ],
+            "Materials": [
+                "Paint",
+                "Mortar"
+            ],
+            "Cost": 4955432.8,
+            "Requirements": [
+                "Electrical Engineer",
+                "Construction Engineer",
+                "Craftsman",
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 78."
+        },
+        {
+            "Tender No": "T-079",
+            "Date": "2024-01-23",
+            "Duration": "11 months",
+            "Subject": "Construction Project 79",
+            "Location": "City 10, Neighborhood 11, Street 37",
+            "Worker Types": [
+                "Craftsman",
+                "Painter",
+                "Tiler",
+                "Welder",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Cement",
+                "Glass",
+                "Paint",
+                "Steel"
+            ],
+            "Cost": 2379130.22,
+            "Requirements": [
+                "Electrical Engineer",
+                "Welder",
+                "Tiler",
+                "Craftsman",
+                "Blacksmith",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 79."
+        },
+        {
+            "Tender No": "T-080",
+            "Date": "2024-02-27",
+            "Duration": "10 months",
+            "Subject": "Construction Project 80",
+            "Location": "City 2, Neighborhood 3, Street 27",
+            "Worker Types": [
+                "Blacksmith",
+                "Tiler"
+            ],
+            "Materials": [
+                "Iron",
+                "Brick",
+                "Steel",
+                "Ceramic",
+                "Wire",
+                "Glass",
+                "Paint",
+                "Cement",
+                "Wood",
+                "Mortar"
+            ],
+            "Cost": 3798652.6,
+            "Requirements": [
+                "Construction Engineer",
+                "Painter",
+                "Tiler",
+                "Electrical Engineer",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 80."
+        },
+        {
+            "Tender No": "T-081",
+            "Date": "2023-06-05",
+            "Duration": "11 months",
+            "Subject": "Construction Project 81",
+            "Location": "City 9, Neighborhood 20, Street 26",
+            "Worker Types": [
+                "Craftsman",
+                "Carpenter",
+                "Painter"
+            ],
+            "Materials": [
+                "Paint",
+                "Iron",
+                "Ceramic",
+                "Brick",
+                "Steel",
+                "Wood",
+                "Mortar",
+                "Cement"
+            ],
+            "Cost": 2891556.47,
+            "Requirements": [
+                "Painter",
+                "Blacksmith",
+                "Craftsman",
+                "Welder",
+                "Construction Engineer",
+                "Electrical Engineer",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 81."
+        },
+        {
+            "Tender No": "T-082",
+            "Date": "2023-07-16",
+            "Duration": "8 months",
+            "Subject": "Construction Project 82",
+            "Location": "City 1, Neighborhood 18, Street 14",
+            "Worker Types": [
+                "Painter",
+                "Craftsman",
+                "Welder",
+                "Plasterer",
+                "Blacksmith"
+            ],
+            "Materials": [
+                "Mortar",
+                "Ceramic",
+                "Wood",
+                "Iron",
+                "Brick"
+            ],
+            "Cost": 4282013.26,
+            "Requirements": [
+                "Tiler",
+                "Painter",
+                "Construction Engineer",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 82."
+        },
+        {
+            "Tender No": "T-083",
+            "Date": "2024-02-25",
+            "Duration": "12 months",
+            "Subject": "Construction Project 83",
+            "Location": "City 9, Neighborhood 9, Street 48",
+            "Worker Types": [
+                "Craftsman",
+                "Welder",
+                "Electrical Engineer",
+                "Carpenter",
+                "Tiler"
+            ],
+            "Materials": [
+                "Steel",
+                "Paint",
+                "Glass",
+                "Mortar",
+                "Wood",
+                "Ceramic",
+                "Wire"
+            ],
+            "Cost": 3709734.61,
+            "Requirements": [
+                "Craftsman",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 83."
+        },
+        {
+            "Tender No": "T-084",
+            "Date": "2024-01-08",
+            "Duration": "11 months",
+            "Subject": "Construction Project 84",
+            "Location": "City 2, Neighborhood 4, Street 34",
+            "Worker Types": [
+                "Painter",
+                "Electrical Engineer",
+                "Tiler",
+                "Welder",
+                "Craftsman",
+                "Carpenter",
+                "Construction Engineer",
+                "Plasterer"
+            ],
+            "Materials": [
+                "Ceramic",
+                "Iron",
+                "Wire",
+                "Wood",
+                "Mortar",
+                "Paint",
+                "Brick",
+                "Glass",
+                "Cement"
+            ],
+            "Cost": 3470426.2,
+            "Requirements": [
+                "Electrical Engineer",
+                "Construction Engineer",
+                "Blacksmith",
+                "Welder",
+                "Plasterer",
+                "Craftsman",
+                "Tiler",
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 84."
+        },
+        {
+            "Tender No": "T-085",
+            "Date": "2024-01-14",
+            "Duration": "4 months",
+            "Subject": "Construction Project 85",
+            "Location": "City 3, Neighborhood 3, Street 47",
+            "Worker Types": [
+                "Painter",
+                "Blacksmith",
+                "Craftsman"
+            ],
+            "Materials": [
+                "Brick",
+                "Mortar"
+            ],
+            "Cost": 2406813.95,
+            "Requirements": [
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 85."
+        },
+        {
+            "Tender No": "T-086",
+            "Date": "2023-10-10",
+            "Duration": "3 months",
+            "Subject": "Construction Project 86",
+            "Location": "City 3, Neighborhood 17, Street 37",
+            "Worker Types": [
+                "Plasterer",
+                "Construction Engineer",
+                "Blacksmith"
+            ],
+            "Materials": [
+                "Wire"
+            ],
+            "Cost": 3553763.25,
+            "Requirements": [
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 86."
+        },
+        {
+            "Tender No": "T-087",
+            "Date": "2023-08-18",
+            "Duration": "7 months",
+            "Subject": "Construction Project 87",
+            "Location": "City 7, Neighborhood 1, Street 11",
+            "Worker Types": [
+                "Construction Engineer",
+                "Plasterer",
+                "Welder"
+            ],
+            "Materials": [
+                "Wood",
+                "Cement",
+                "Brick",
+                "Steel",
+                "Glass",
+                "Wire",
+                "Mortar",
+                "Ceramic",
+                "Iron"
+            ],
+            "Cost": 4411170.71,
+            "Requirements": [
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 87."
+        },
+        {
+            "Tender No": "T-088",
+            "Date": "2024-05-12",
+            "Duration": "6 months",
+            "Subject": "Construction Project 88",
+            "Location": "City 6, Neighborhood 7, Street 49",
+            "Worker Types": [
+                "Craftsman"
+            ],
+            "Materials": [
+                "Mortar",
+                "Wood"
+            ],
+            "Cost": 1825459.28,
+            "Requirements": [
+                "Electrical Engineer",
+                "Tiler",
+                "Craftsman",
+                "Construction Engineer",
+                "Welder",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 88."
+        },
+        {
+            "Tender No": "T-089",
+            "Date": "2024-03-11",
+            "Duration": "5 months",
+            "Subject": "Construction Project 89",
+            "Location": "City 9, Neighborhood 15, Street 13",
+            "Worker Types": [
+                "Construction Engineer"
+            ],
+            "Materials": [
+                "Cement",
+                "Paint",
+                "Mortar",
+                "Ceramic",
+                "Glass",
+                "Brick",
+                "Wood",
+                "Steel",
+                "Wire"
+            ],
+            "Cost": 2429740.38,
+            "Requirements": [
+                "Painter",
+                "Plasterer",
+                "Tiler",
+                "Electrical Engineer",
+                "Blacksmith",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 89."
+        },
+        {
+            "Tender No": "T-090",
+            "Date": "2023-09-29",
+            "Duration": "9 months",
+            "Subject": "Construction Project 90",
+            "Location": "City 2, Neighborhood 14, Street 49",
+            "Worker Types": [
+                "Plasterer",
+                "Painter",
+                "Electrical Engineer",
+                "Welder",
+                "Carpenter",
+                "Construction Engineer",
+                "Blacksmith",
+                "Tiler"
+            ],
+            "Materials": [
+                "Wood",
+                "Brick",
+                "Steel",
+                "Paint",
+                "Wire",
+                "Glass",
+                "Ceramic",
+                "Mortar"
+            ],
+            "Cost": 221008.44,
+            "Requirements": [
+                "Electrical Engineer",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 90."
+        },
+        {
+            "Tender No": "T-091",
+            "Date": "2023-06-27",
+            "Duration": "10 months",
+            "Subject": "Construction Project 91",
+            "Location": "City 1, Neighborhood 2, Street 11",
+            "Worker Types": [
+                "Blacksmith",
+                "Construction Engineer",
+                "Carpenter",
+                "Electrical Engineer",
+                "Craftsman",
+                "Tiler",
+                "Welder",
+                "Plasterer",
+                "Painter"
+            ],
+            "Materials": [
+                "Steel",
+                "Iron",
+                "Paint",
+                "Brick",
+                "Ceramic"
+            ],
+            "Cost": 3018714.48,
+            "Requirements": [
+                "Blacksmith",
+                "Construction Engineer",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 91."
+        },
+        {
+            "Tender No": "T-092",
+            "Date": "2024-02-01",
+            "Duration": "6 months",
+            "Subject": "Construction Project 92",
+            "Location": "City 7, Neighborhood 14, Street 33",
+            "Worker Types": [
+                "Blacksmith",
+                "Tiler",
+                "Construction Engineer",
+                "Craftsman",
+                "Painter",
+                "Welder",
+                "Electrical Engineer",
+                "Carpenter"
+            ],
+            "Materials": [
+                "Ceramic",
+                "Wire",
+                "Iron",
+                "Mortar",
+                "Wood",
+                "Paint",
+                "Glass",
+                "Steel"
+            ],
+            "Cost": 4294810.56,
+            "Requirements": [
+                "Electrical Engineer",
+                "Painter",
+                "Welder"
+            ],
+            "Description": "Construction work for Construction Project 92."
+        },
+        {
+            "Tender No": "T-093",
+            "Date": "2023-06-08",
+            "Duration": "10 months",
+            "Subject": "Construction Project 93",
+            "Location": "City 4, Neighborhood 2, Street 50",
+            "Worker Types": [
+                "Plasterer",
+                "Welder",
+                "Construction Engineer",
+                "Tiler",
+                "Carpenter",
+                "Blacksmith",
+                "Painter",
+                "Electrical Engineer"
+            ],
+            "Materials": [
+                "Steel"
+            ],
+            "Cost": 844559.35,
+            "Requirements": [
+                "Tiler",
+                "Blacksmith",
+                "Plasterer",
+                "Welder",
+                "Painter",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 93."
+        },
+        {
+            "Tender No": "T-094",
+            "Date": "2023-11-21",
+            "Duration": "3 months",
+            "Subject": "Construction Project 94",
+            "Location": "City 9, Neighborhood 10, Street 10",
+            "Worker Types": [
+                "Plasterer",
+                "Construction Engineer",
+                "Carpenter",
+                "Painter",
+                "Welder",
+                "Blacksmith",
+                "Electrical Engineer",
+                "Craftsman"
+            ],
+            "Materials": [
+                "Glass",
+                "Mortar",
+                "Paint",
+                "Steel",
+                "Wood",
+                "Cement",
+                "Ceramic",
+                "Wire",
+                "Brick",
+                "Iron"
+            ],
+            "Cost": 826842.04,
+            "Requirements": [
+                "Blacksmith",
+                "Plasterer",
+                "Craftsman",
+                "Welder",
+                "Tiler",
+                "Electrical Engineer"
+            ],
+            "Description": "Construction work for Construction Project 94."
+        },
+        {
+            "Tender No": "T-095",
+            "Date": "2023-07-15",
+            "Duration": "12 months",
+            "Subject": "Construction Project 95",
+            "Location": "City 2, Neighborhood 12, Street 11",
+            "Worker Types": [
+                "Carpenter",
+                "Painter"
+            ],
+            "Materials": [
+                "Paint",
+                "Ceramic",
+                "Wood",
+                "Iron",
+                "Cement",
+                "Brick",
+                "Glass"
+            ],
+            "Cost": 1161850.27,
+            "Requirements": [
+                "Construction Engineer",
+                "Plasterer",
+                "Tiler",
+                "Blacksmith",
+                "Welder",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 95."
+        },
+        {
+            "Tender No": "T-096",
+            "Date": "2023-11-30",
+            "Duration": "7 months",
+            "Subject": "Construction Project 96",
+            "Location": "City 1, Neighborhood 3, Street 35",
+            "Worker Types": [
+                "Blacksmith",
+                "Painter",
+                "Construction Engineer",
+                "Tiler",
+                "Welder",
+                "Plasterer"
+            ],
+            "Materials": [
+                "Wire",
+                "Wood",
+                "Steel",
+                "Ceramic",
+                "Brick",
+                "Paint",
+                "Cement"
+            ],
+            "Cost": 517454.99,
+            "Requirements": [
+                "Craftsman",
+                "Construction Engineer",
+                "Blacksmith",
+                "Electrical Engineer",
+                "Plasterer",
+                "Tiler",
+                "Painter"
+            ],
+            "Description": "Construction work for Construction Project 96."
+        },
+        {
+            "Tender No": "T-097",
+            "Date": "2023-09-18",
+            "Duration": "8 months",
+            "Subject": "Construction Project 97",
+            "Location": "City 9, Neighborhood 20, Street 29",
+            "Worker Types": [
+                "Painter"
+            ],
+            "Materials": [
+                "Wood"
+            ],
+            "Cost": 750074.15,
+            "Requirements": [
+                "Blacksmith",
+                "Electrical Engineer",
+                "Welder",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 97."
+        },
+        {
+            "Tender No": "T-098",
+            "Date": "2024-03-19",
+            "Duration": "6 months",
+            "Subject": "Construction Project 98",
+            "Location": "City 2, Neighborhood 4, Street 3",
+            "Worker Types": [
+                "Welder",
+                "Carpenter",
+                "Electrical Engineer",
+                "Tiler"
+            ],
+            "Materials": [
+                "Ceramic",
+                "Glass"
+            ],
+            "Cost": 4152873.96,
+            "Requirements": [
+                "Painter",
+                "Electrical Engineer",
+                "Construction Engineer",
+                "Welder",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 98."
+        },
+        {
+            "Tender No": "T-099",
+            "Date": "2023-06-23",
+            "Duration": "2 months",
+            "Subject": "Construction Project 99",
+            "Location": "City 7, Neighborhood 15, Street 18",
+            "Worker Types": [
+                "Construction Engineer",
+                "Blacksmith",
+                "Painter",
+                "Electrical Engineer",
+                "Craftsman",
+                "Tiler",
+                "Welder",
+                "Carpenter",
+                "Plasterer"
+            ],
+            "Materials": [
+                "Iron",
+                "Wire",
+                "Ceramic",
+                "Glass",
+                "Mortar"
+            ],
+            "Cost": 2220045.82,
+            "Requirements": [
+                "Construction Engineer",
+                "Electrical Engineer",
+                "Plasterer",
+                "Blacksmith",
+                "Welder",
+                "Craftsman"
+            ],
+            "Description": "Construction work for Construction Project 99."
+        },
+        {
+            "Tender No": "T-100",
+            "Date": "2023-09-05",
+            "Duration": "12 months",
+            "Subject": "Construction Project 100",
+            "Location": "City 1, Neighborhood 16, Street 27",
+            "Worker Types": [
+                "Tiler"
+            ],
+            "Materials": [
+                "Wood",
+                "Glass",
+                "Cement",
+                "Mortar",
+                "Brick"
+            ],
+            "Cost": 1241690.43,
+            "Requirements": [
+                "Electrical Engineer",
+                "Tiler",
+                "Painter",
+                "Blacksmith",
+                "Construction Engineer",
+                "Craftsman",
+                "Welder",
+                "Plasterer"
+            ],
+            "Description": "Construction work for Construction Project 100."
+        }
+    ]
+}
