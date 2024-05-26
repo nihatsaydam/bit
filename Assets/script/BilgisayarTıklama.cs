@@ -19,11 +19,13 @@ public class BilgisayarTıklama : MonoBehaviour
         {
             ihalePanel.SetActive(true);
             workerPanel.SetActive(false);
+            Debug.Log("Hey, İhale Paneli açıldı!");
         }
         else if (bilgisayarTuru == BilgisayarTuru.Worker)
         {
-            workerPanel.SetActive(true);
             ihalePanel.SetActive(false);
+            workerPanel.SetActive(true);
+            Debug.Log("Hey, Worker Paneli açıldı!");
         }
     }
 }

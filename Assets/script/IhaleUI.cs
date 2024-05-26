@@ -1,12 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class IhaleUI : MonoBehaviour
 {
-    public Text tenderNoText;
-    public Text subjectText;
-    public Text costText;
-    public Text descriptionText;
+    public TextMeshProUGUI tenderNoText;
+    public TextMeshProUGUI subjectText;
+    public TextMeshProUGUI costText;
+    public TextMeshProUGUI descriptionText;
     public Button participateButton;
 
     private Ihale ihale;
@@ -15,10 +16,10 @@ public class IhaleUI : MonoBehaviour
     void Awake()
     {
         // Referansları programatik olarak ayarlama
-        tenderNoText = transform.Find("TenderNoText").GetComponent<Text>();
-        subjectText = transform.Find("SubjectText").GetComponent<Text>();
-        costText = transform.Find("CostText").GetComponent<Text>();
-        descriptionText = transform.Find("DescriptionText").GetComponent<Text>();
+        tenderNoText = transform.Find("TenderNoText").GetComponent<TextMeshProUGUI>();
+        subjectText = transform.Find("SubjectText").GetComponent<TextMeshProUGUI>();
+        costText = transform.Find("CostText").GetComponent<TextMeshProUGUI>();
+        descriptionText = transform.Find("DescriptionText").GetComponent<TextMeshProUGUI>();
         participateButton = transform.Find("ParticipateButton").GetComponent<Button>();
     }
 
